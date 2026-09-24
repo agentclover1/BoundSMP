@@ -35,7 +35,7 @@
 
 ### Altar's Edge
 * **Acquisition:** Obtained during a server-wide event.
-* **Ability:** When you kill someone, there is a 75% chance to gain triple the points. The dead player still only loses 1 point however.
+* **Ability:** When you kill someone, there is a 50% chance to gain +3 points. The dead player still only loses 1 point however. When you kill a player, you cannot get the +3 points again from killing them for another 24 hours.
 * **Risk:** If a player dies with it in their inventory, they are guaranteed to lose 20% of their total points.
 
 ### Greed Blade
