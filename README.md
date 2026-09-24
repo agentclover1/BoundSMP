@@ -27,7 +27,7 @@
 
 ### Tier Loot Tables
 * **Common Tier:** To be determined.
-* **Rare Tier (15 Points):** To be determined.
+* **Rare Tier:** To be determined.
 
 ---
 
