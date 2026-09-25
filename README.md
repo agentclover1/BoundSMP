@@ -42,3 +42,9 @@
 * **Acquisition:** Obtained during a server-wide event.
 * **Ability:** Deals +0.5 more attack damage for every 2 points the player has.
 * **Risk:** Players are required to not hoard points in their ender chest, so when they die, they may lose many points.
+
+---
+
+## 5. Dimension
+
+* **Clueless:** bro idk what to say here its just gonna be a dimension ok?
